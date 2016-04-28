@@ -1,0 +1,18 @@
+{
+  "name": "menumeme",
+  "version": "1.0.0",
+  "description": "Dank memes in your task or menu bar.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r00t1000",
+  "license": "ISC",
+  "dependencies": {
+    "menubar": "^4.1.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^7.0.1",
+    "electron-prebuilt": "^0.37.7"
+  }
+}
